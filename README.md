@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1 align="center">PACE</h1>
 
 Follow the steps below to set up and run PACE locally.
@@ -68,6 +67,4 @@ This project has greatly benefited from the following open-source repositories. 
 - [DeepRUOT](https://github.com/zhenyiizhang/DeepRUOT)
 - [conditional-flow-matching](https://github.com/atong01/conditional-flow-matching)
 - [MIOFlow](https://github.com/KrishnaswamyLab/MIOFlow) -->
-=======
-# PACE
->>>>>>> 700794216017e2c59db845b161438b407cdb3fd1
+
